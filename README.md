@@ -1,2 +1,2 @@
 # DSEcosystem
-Final Project
+Final Project Lab for Coursera course
